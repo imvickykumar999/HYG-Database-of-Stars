@@ -1,4 +1,6 @@
-### Welcome to the HYG star database archive.  The most current version of the database will always be found here.
+> ### Welcome to the HYG star database archive.  The most current version of the database will always be found here.
+>
+> ![ss](http://tabletopwhale.com/img/posts/19-07-15.jpg)
 
 #### License and Versions:
 
