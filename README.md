@@ -1,6 +1,19 @@
+
+`Some useful links...`
+
+- http://www.stellar-database.com/
+- https://www.dropbox.com/sh/bxx86a79we730ic/AAD1ENqMMrKgAsXBXkgF-d-Ra?dl=0
+- http://www.stellar-database.com/
+- https://github.com/jmatlock/orion-constellation
+- https://github.com/FIGLAB/constellations
+
+---------------
+
 > ### Welcome to the HYG star database archive.  The most current version of the database will always be found here.
 >
 > ![ss](http://tabletopwhale.com/img/posts/19-07-15.jpg)
+
+--------------
 
 #### License and Versions:
 
